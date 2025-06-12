@@ -1,3 +1,3 @@
 # VeriYapilari
 
-Ders Kapdsmında Yapılan 3 ödev Açıklmaları ile birlikte eklenmiştir. 
+Ders Kapsamında Yapılan 3 ödev Açıklamaları ile birlikte eklenmiştir. 
