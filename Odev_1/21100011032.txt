@@ -1,0 +1,6 @@
+Mustafa ALtiparmak 21111032 matematik 85 01 sosyal 45 2 cografya 65 5
+Feyza Gedikli 21100004 matematik 100 01 turkce 100 03 ingilizce 10 04
+omer akbas 21100005 veriler 80 6 ingilizce 67 4 sosyal 100 2
+Mehmet Hacibeyoglu 21100110 matematik 12 1 sosyal 15 2 turkce 22 3
+mustafa hacibeyoglu 21100021 sosyal 32 2 türkce 90 3 matematik 100 1
+ali sisman 21100098 sosyal 30 2 turkce 22 3 sosyal 45 2
